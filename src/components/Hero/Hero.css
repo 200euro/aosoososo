@@ -1,0 +1,13 @@
+.wrap{
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr  ;
+   gap: 20px;
+   padding-top: 50px;
+}
+
+.box{
+   border: 2px solid;
+   height: 250px;
+   background-color: lightgray;
+   border-radius: 20px;
+}
